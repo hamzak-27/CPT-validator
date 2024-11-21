@@ -1,0 +1,9 @@
+streamlit
+langchain-community
+langchain-openai
+llama-parse
+pandas
+openpyxl
+faiss-cpu
+python-docx
+nest-asyncio
